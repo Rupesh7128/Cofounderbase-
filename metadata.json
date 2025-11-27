@@ -1,0 +1,7 @@
+{
+  "name": "CofounderBase",
+  "description": "The premier matchmaking platform for visionary founders. Join the waitlist for the Jan 2026 launch.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
